@@ -1,0 +1,3 @@
+C:\Users\math\Desktop\cpp_tank_by_willy\cpp_tank_by_willy\x64\Debug\cpp_tank_by_willy.vcxproj.AssemblyReference.cache
+C:\Users\math\Desktop\cpp_tank_by_willy\cpp_tank_by_willy\x64\Debug\cpp_tank_by_willy.Form1.resources
+C:\Users\math\Desktop\cpp_tank_by_willy\cpp_tank_by_willy\x64\Debug\cpp_tank_by_willy.vcxproj.GenerateResource.cache
